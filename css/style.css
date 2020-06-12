@@ -4,7 +4,7 @@ body {
 
 .navbar {
     background-color: #b2babb;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .quem-somos {
@@ -26,6 +26,7 @@ body {
 }
 
 .bg-footer {
-    background-color: #b2babb;
+    background-color: #5d5d5e;
     padding-bottom: 10px;
+    color: white;
 }
